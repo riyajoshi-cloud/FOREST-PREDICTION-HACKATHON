@@ -1,2 +1,2 @@
-# FOREST-PREDICTION-HACKATHON
+## FOREST-PREDICTION-HACKATHON
 This project implements a machine learning model to predict forest-related values for the Uttarakhand region. The workflow includes data preprocessing, feature analysis, model training, and prediction. The trained model analyzes the input parameters and predicts the output value, demonstrating how data-driven approaches can support environmental monitoring and decision making.
